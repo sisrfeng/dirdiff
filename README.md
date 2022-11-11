@@ -40,10 +40,6 @@ or add the following function to your shell init file:
         vim $@ -c "DirDiff $DIR1 $DIR2"
     }
 
-If you use pathogen, you can use :Helptags to regenerate documentation.  You
-then can see ":h dirdiff" for more information.
-
-
 ## License
 
 Copyright (c) 2001-2015 William Lee. (BSD-Like)  See doc/dirdiff.txt.
